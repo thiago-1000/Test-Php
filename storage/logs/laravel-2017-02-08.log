@@ -97,3 +97,6 @@ Stack trace:
 #43 C:\xampp\htdocs\Teste_Php\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
 #44 C:\xampp\htdocs\Teste_Php\server.php(21): require_once('C:\xampp\htdocs...')
 #45 {main}  
+[2017-02-08 19:55:12] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Artisaninweb\SoapWrapper\ServiceProvider' not found' in C:\xampp\htdocs\Test-Php\vendor\laravel\framework\src\Illuminate\Foundation\ProviderRepository.php:150
+Stack trace:
+#0 {main}  

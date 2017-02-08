@@ -1,7 +1,0 @@
-.idea
-.DS_Store
-.swp
-composer.lock
-phpunit.xml
-build
-vendor

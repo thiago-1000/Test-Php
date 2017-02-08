@@ -204,7 +204,7 @@ return [
 		'HTML'		=> 'Illuminate\Html\HtmlFacade',
 		'PDF'		=> 'niklasravnsborg\LaravelPdf\Facades\Pdf',
 		'SoapWrapper'	=> 'Artisaninweb\SoapWrapper\Facades\SoapWrapper',
-                'Image'         => 'Intervention\Image\Facades\Image'
+        'Image'         => 'Intervention\Image\Facades\Image'
 
 	],
 
